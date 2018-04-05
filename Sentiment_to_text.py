@@ -25,6 +25,10 @@ User_Tweet_Search_Size = int(input("Please enter how large you want your search 
 #Retrieve Tweets
 public_tweets = api.search(q=User_Input, count= User_Tweet_Search_Size)
 counter = 0
+file = open(User_Input+'.txt','w')
+message = file.write(User_Input)
+print(message)
+file.close()
 for tweet in public_tweets:
 
      counter = counter + 1
