@@ -1,1 +1,7 @@
-Trump
+Trump1RT @JuddLegum: Trump TODAY:
+
+1. Pushed conspiracy theory that millions of people vote illegally
+
+2. Claimed he doesn’t know why his attorne…Sentiment(polarity=-0.5, subjectivity=0.5)2RT @LouDobbs: China About to Learn Chamber of Commerce No Longer in Charge:  @realDonaldTrump orders consideration of $100 billion in new C…Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)3RT @CNNPolitics: Oregon Gov. Kate Brown: If President Trump asks me to send National Guard troops to the border, "I'll say no" https://t.co…Sentiment(polarity=0.0, subjectivity=0.0)4RT @sthaytrek: nao tratem o bolsonaro como meme mais. nao deem palco pra esse doido dançar. tratem ele como a ameaça neo nazista que ele é.…Sentiment(polarity=0.0, subjectivity=0.0)5RT @RepTedDeutch: Trump stationing National Guard troops at the border is an unnecessary &amp; wasteful use of government resources and is noth…Sentiment(polarity=-0.4, subjectivity=0.9)6Mexican Rapists, Voter Fraud, People Being “Cut Up“: Trump’s “Tax Reform” Speech Goes Slightly Off the Rails
+
+https://t.co/jgfQ0Z8bRuSentiment(polarity=-0.08333333333333333, subjectivity=0.08333333333333333)7
